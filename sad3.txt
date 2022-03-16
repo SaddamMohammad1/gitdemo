@@ -1,0 +1,1 @@
+for loop - from the given sequence if you want to perform certain activity then use for loop
